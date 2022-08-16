@@ -1,0 +1,7 @@
+package com.jl.reggie.service;
+
+import com.baomidou.mybatisplus.extension.service.IService;
+import com.jl.reggie.entity.User;
+
+public interface UserService extends IService<User> {
+}
